@@ -7,5 +7,3 @@ def square_array([1,2,3])
     counter += 1
   end
 end
-essay_grade = [1,3,2,5,8]
-square_array(essay_grade,2)
