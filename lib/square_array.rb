@@ -1,4 +1,4 @@
-def square_array(array)
+def square_array([1,2,3])
   counter = 0
   array.each do |arr|
     arr ** 2
